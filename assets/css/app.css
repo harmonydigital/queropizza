@@ -1,6 +1,6 @@
 body {
     font-family: 'Lexend Deca', sans-serif;
-    background-color: #FED30A;
+    background-color: #FF2B00;
     margin: 0px;
     overflow: hidden;
     max-width: 800px; 
@@ -76,7 +76,7 @@ h2 {
     padding: 0px 20px;
     font-size: 2.5rem;
     width: 300px;
-    color: black;
+    color: white;
     margin: 10px 0px 15px;
     line-height: 1.1;
 }

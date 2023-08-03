@@ -1,6 +1,6 @@
 .menu {
     width: 100%;
-    background: #FED30A;
+    background: #FF2B00;
     height: 65px;
     position: fixed;
     z-index: 99;
@@ -24,6 +24,6 @@
 }
 
 .menu svg {
-    color: black;
+    color: white;
 }
 
