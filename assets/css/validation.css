@@ -45,14 +45,15 @@ button#btnFullScreen svg {
 .validation .content img {
     display: block;
     margin: 0 auto;
-    width: 80px;
+    width: 145px;
      transition: .3s;
 
 }
 .content-text h1 {
-    font-size: 2.5rem;
+    font-size: 2.9rem;
     text-align: left;
     font-weight: 700;
+    letter-spacing: -3px;
 }
 .content-text h1 strong {
     color:#FF2B00
@@ -99,7 +100,7 @@ select:invalid { color: red; }
     text-transform: capitalize;
     font-weight: bold;
     font-family: 'Lexend Deca', sans-serif;
-    width: 280px;
+    width: 200px;
     display: block;
 }
 .validation button img {
